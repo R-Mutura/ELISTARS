@@ -364,7 +364,7 @@
     (property "Value" "ADS1115IDGS" (at 130.7591 67.31 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Package_SO:TSSOP-10_3x3mm_P0.5mm" (at 130.175 92.075 0)
+    (property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm" (at 130.175 92.075 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ads1113.pdf" (at 131.445 102.235 0)

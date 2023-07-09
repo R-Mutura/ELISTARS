@@ -1990,7 +1990,7 @@
     (property "Value" "Barrel_Jack_Switch" (at 49.53 31.115 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal" (at 50.8 38.481 0)
+    (property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal" (at 50.8 38.481 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 38.481 0)
